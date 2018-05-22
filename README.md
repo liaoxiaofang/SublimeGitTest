@@ -1,3 +1,2 @@
 README.md
-a test
-test sublime text3 and githup
+sublime text3 搭建git的环境
